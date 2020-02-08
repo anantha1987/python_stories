@@ -1,3 +1,7 @@
+"""
+Anantha Kumar
+"""
+
 from tkinter import *
 
 root = Tk()
@@ -24,3 +28,5 @@ def run(n, master):
 
 run(0, mainframe)
 root.mainloop()
+
+

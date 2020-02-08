@@ -1,3 +1,7 @@
+
+"""
+Merge conflict issue
+"""
 from tkinter import *
 
 root = Tk()

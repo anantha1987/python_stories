@@ -1,6 +1,6 @@
 
 """
-Merge conflict issue
+Merge conflict issues
 """
 from tkinter import *
 
